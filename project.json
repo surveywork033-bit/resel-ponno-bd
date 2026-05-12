@@ -1,0 +1,27 @@
+{
+  "overview": "A complete Bangladeshi reseller/e-commerce dashboard web app with a mobile-first Android-like UI. Fully in Bangla language with stylish Bangla fonts, green and white theme, animated sidebar, bottom navigation, product listings, daily stats, and profile management.",
+  "features": [
+    "100% Bangla language UI with Hind Siliguri/Noto Sans Bengali fonts",
+    "Mobile-first app shell with 430px max-width, green and white theme",
+    "Animated sidebar with dark/light mode toggle",
+    "Home page with banner carousel, social links, notice marquee, and 30-item dashboard grid",
+    "Product catalog with search, category filters, and cart management",
+    "Daily stats with animated counters, weekly bar chart, and sales report table",
+    "Profile page with wallet, order/income history, and referral info",
+    "React Context + useReducer state with localStorage persistence",
+    "Framer Motion animations throughout",
+    "Splash screen on first load"
+  ],
+  "category": "e-commerce",
+  "tags": [
+    "bangla",
+    "reseller",
+    "ecommerce",
+    "dashboard",
+    "mobile",
+    "bangladesh",
+    "framer-motion",
+    "recharts"
+  ],
+  "last_updated": "2026-05-11T18:09:01.574Z"
+}
